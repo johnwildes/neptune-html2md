@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "neptune_html2md": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7077",
+      "launchBrowser": false
+    }
+  }
+}
